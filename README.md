@@ -1,2 +1,2 @@
-# fictional-octo-potato
+# onejumpman-demo
 demo
